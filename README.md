@@ -17,7 +17,7 @@ Em um mundo habitado por dinossauros, um grupo deles se vê diante da descoberta
 
 ## Como Assistir
 
-Você pode assistir a "Gobelins 2002 - Jurannessic" no [YouTube](link_para_o_video_do_curta) ou no [site oficial da Gobelins](link_para_o_site_oficial), onde ele pode estar disponível para visualização.
+Você pode assistir a "Gobelins 2002 - Jurannessic" no [YouTube](https://youtu.be/l-WAPWIO7p4) ou no [site oficial da Gobelins](https://youtu.be/l-WAPWIO7p4), onde ele pode estar disponível para visualização.
 
 ## Contribuições
 
