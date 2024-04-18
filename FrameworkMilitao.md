@@ -1,29 +1,29 @@
 #[Modelo1](https://chat.openai.com/share/348568aa-d17c-4e76-adca-eed3534f5128)
 
 
-# Roteiro Básico da Estrutura da Pesquisa/Apresentação
+## Roteiro Básico da Estrutura da Pesquisa/Apresentação
 
-## A) O QUE É - DEFINIÇÃO
+### A) O QUE É - DEFINIÇÃO
 
-Semiótica é o estudo dos signos e dos processos de comunicação, incluindo a interpretação de signos e símbolos. No contexto da contação de histórias ou storytelling, a semiótica se concentra nas técnicas narrativas utilizadas para transmitir uma mensagem de forma eficaz.
+A Semiótica é o estudo dos signos e símbolos e sua interpretação, especialmente no que diz respeito à linguagem e à comunicação. No contexto da Contação de Histórias (Storytelling) no cinema/vídeo, ela se concentra nas técnicas narrativas utilizadas para criar significado e impacto emocional nas audiências através da composição dos elementos visuais e sonoros.
 
-## B) HISTÓRICO / CONTEXTO
+### B) HISTÓRICO / CONTEXTO
 
-- **O que é?**: A semiótica é uma disciplina que investiga os signos e seus significados em diferentes contextos culturais e sociais.
-- **Quem formulou?**: A semiótica foi formulada por diversos teóricos ao longo do tempo, sendo Ferdinand de Saussure e Charles Sanders Peirce os principais nomes associados à sua fundação.
-- **Quando surgiu? Histórico**: A semiótica teve origens no final do século XIX, com os trabalhos de Saussure e Peirce, mas se desenvolveu significativamente no século XX com contribuições de outros teóricos.
-- **Principais nomes da área**: Além de Saussure e Peirce, outros nomes importantes incluem Roland Barthes, Umberto Eco e Algirdas Julien Greimas.
+- **O que é?** A Semiótica é uma disciplina interdisciplinar que investiga a natureza dos signos e símbolos.
+- **Quem formulou?** Charles Sanders Peirce e Ferdinand de Saussure são considerados os pioneiros no estudo moderno da Semiótica.
+- **Quando surgiu?** O termo "Semiótica" foi cunhado por John Locke no final do século XVII, mas seu desenvolvimento como disciplina sistemática ocorreu no século XIX.
+- **Principais nomes da área:** Além de Peirce e Saussure, outros importantes nomes incluem Roland Barthes, Umberto Eco e Yuri Lotman.
 
-## C) ELEMENTOS / ESTRUTURA
+### C) ELEMENTOS / ESTRUTURA
 
-- **Como é?**: A semiótica analisa a estrutura e o funcionamento dos signos, dividindo-os em três componentes: o signo (ou signo icônico), o objeto e o interpretante.
-- **Principais definições**: Signo é qualquer coisa que representa outra coisa para alguém, o objeto é o referente ao qual o signo se refere, e o interpretante é a ideia ou conceito que o signo evoca na mente do intérprete.
-- **Principais correntes**: Existem diversas correntes dentro da semiótica, incluindo a semiótica linguística de Saussure, a semiótica peirciana de Peirce e a semiótica estruturalista de Greimas.
-- **Princípios teóricos / Técnicos principais**: Os princípios teóricos incluem a relação triádica entre signo, objeto e interpretante, enquanto técnicas principais envolvem a análise semiótica de textos e narrativas.
+- **Como é?** A Semiótica analisa como os signos são usados para criar significado, incluindo os aspectos visuais e sonoros do cinema/vídeo.
+- **Principais definições:** Signo (composto por significado, significante e referente), denotação, conotação, código, entre outros.
+- **Principais correntes:** Semiótica estruturalista (Saussure), Semiótica triádica (Peirce), Semiótica pós-estruturalista (Barthes).
+- **Princípios teóricos / Técnicos principais:** Iconicidade, Indexicalidade, Simbolismo, Intertextualidade, entre outros.
 
-## D) EXEMPLOS CASES
+### D) EXEMPLOS CASES
 
-- **Ilustrar e exemplificar os elementos acima através da citação de obras/peças de referência**:
-  - *Guerra nas Estrelas (Star Wars)*: Exemplo de uso de signos icônicos (como os sabres de luz) para representar conceitos como o bem e o mal.
-  - *A Divina Comédia de Dante Alighieri*: Exemplo de narrativa que utiliza uma estrutura simbólica complexa para transmitir significados profundos.
-  - *As Aventuras de Sherlock Holmes de Arthur Conan Doyle*: Exemplo de uso de signos linguísticos para construir personagens e enredos complexos.
+- **"Leave the World Behind"** - Este filme utiliza elementos visuais e sonoros para criar uma atmosfera de suspense e tensão, empregando a montagem para aumentar a sensação de mistério e desconforto.
+- **"Mr. Robot"** - A série de TV usa técnicas narrativas inovadoras, como a quebra da quarta parede e a manipulação visual e sonora, para mergulhar os espectadores na mente do protagonista e explorar temas de alienação e paranoia.
+
+*Nota: Os exemplos citados ajudam a ilustrar como os princípios da Semiótica são aplicados na prática do cinema/vídeo, influenciando a narrativa e a experiência do público.*
