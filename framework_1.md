@@ -1,4 +1,7 @@
-Claro, aqui está uma estrutura básica para uma dissertação sobre linhas narrativas de storytelling e semiótica:
+
+[](https://www.imdb.com/title/tt12747748/?ref_=vp_close)
+
+estrutura básica para uma dissertação sobre linhas narrativas de storytelling e semiótica:
 
 **I. Introdução**
    - Contextualização do tema: Explique a importância do storytelling e da semiótica na construção de narrativas.
