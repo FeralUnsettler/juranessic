@@ -1,4 +1,3 @@
-#[Modelo1](https://chat.openai.com/share/348568aa-d17c-4e76-adca-eed3534f5128)
 
 
 ## Roteiro Básico da Estrutura da Pesquisa/Apresentação
