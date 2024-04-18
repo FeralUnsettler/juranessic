@@ -1,11 +1,11 @@
 
-[Links Live the world Behind ]
-#
+#[Links Live the world Behind ]
+--
 [IMDB](https://www.imdb.com/title/tt12747748/?ref_=vp_close)
-[IMDB](https://www.netflix.com/br-en/title/81314956)
+[NETFLIX](https://www.netflix.com/br-en/title/81314956)
 
-estrutura básica para uma dissertação sobre linhas narrativas de storytelling e semiótica:
-
+#[estrutura básica para uma dissertação sobre linhas narrativas de storytelling e semiótica:]
+--
 **I. Introdução**
    - Contextualização do tema: Explique a importância do storytelling e da semiótica na construção de narrativas.
    - Apresentação da problemática: Destaque a relevância de compreender como as linhas narrativas e os elementos semióticos influenciam a experiência do público.
