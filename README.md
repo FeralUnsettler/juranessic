@@ -1,6 +1,6 @@
 # Gobelins 2002 - Jurannessic
 
-![Jurannessic](jurannessic_thumbnail.jpg)
+![Jurannessic](pict1.png)
 
 "Gobelins 2002 - Jurannessic" é um curta-metragem de animação produzido pelos estudantes da escola de animação Gobelins. Lançado em 2002, este curta-metragem oferece uma visão envolvente e imaginativa do período jurássico.
 
