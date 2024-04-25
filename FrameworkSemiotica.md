@@ -5,9 +5,10 @@
 [Blog Completo]
 (https://rockcontent.com/br/talent-blog/semiotica/)
 
-###Figuras de linguagem: 
+### Figuras de linguagem:
 (https://rockcontent.com/br/talent-blog/figuras-de-linguagem/)
-signos que vão dar um astral mais interessante ao seu conteúdo
+
+#### signos que vão dar um astral mais interessante ao seu conteúdo
 Não dá pra falar em signos sem falar de figuras de linguagem, recursos estilísticos que servem para ornamentar o nosso texto, deixando-o mais encantador.
 
 No livro Figuras de Retórica, o professor José Luiz Fiorin, uma das maiores autoridades brasileiras em Semiótica e Análise do Discurso, traz um profundo estudo sobre centenas delas, com grande riqueza e diversidade de exemplos.
@@ -27,6 +28,12 @@ A linguagem audiovisual é composta por outras três linguagens - verbal, sonora
 ---
 
 ### B) HISTÓRICO / CONTEXTO
+
+Precursores
+## Dw Grifith
+(https://pt.wikipedia.org/wiki/D._W._Griffith)
+### Ei
+(https://pt.wikipedia.org/wiki/Serguei_Eisenstein)
 
 - **O que é?** A Semiótica é uma disciplina interdisciplinar que investiga a natureza dos signos e símbolos.
 - **Quem formulou?** Charles Sanders Peirce e Ferdinand de Saussure são considerados os pioneiros no estudo moderno da Semiótica.
