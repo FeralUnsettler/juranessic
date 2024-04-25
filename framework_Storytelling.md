@@ -72,7 +72,12 @@ Dessas três situações, a primeira é a única que é em si uma narrativa, ou 
 ---
 Storytelling é um termo em inglês. "Story" significa história e "telling", contar. Mais que uma mera narrativa, Storytelling é a arte de contar histórias usando técnicas inspiradas em roteiristas e escritores para transmitir uma mensagem de forma inesquecível.
 ---
+## Video Jornada do Herói
+(https://youtu.be/8IwDxGkef6U)
 
+
+
+---
 **III. Metodologia**
    - Descrição do Método de Análise: Apresente o método ou abordagem utilizada para analisar as linhas narrativas e os elementos semióticos em diferentes exemplos de storytelling.
    - Seleção de Casos de Estudo: Explique a seleção dos casos de estudo que serão analisados para ilustrar os conceitos teóricos.
