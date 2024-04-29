@@ -24,18 +24,20 @@ class: center, middle
 # Storytelling: O que é, Importância e Como aplicar (https://fia.com.br/blog/storytelling/)
 
 
+# Storytelling: O Que É, Importância e Como Aplicar
+
+---
+
 ## O Que É Storytelling?
-A humanidade é movida por histórias e isso já não é novidade desde os primeiros desenhos nas cavernas, na Pré-História.
 
-A sobrevivência da espécie humana depende de sua capacidade de organizar as experiências, atribuindo significados àquilo que passou e fazendo o registro do seu ponto de vista.
+- A humanidade tem sido impulsionada por histórias desde os primeiros desenhos nas cavernas.
 
-Mais do que documentar por documentar, as histórias que conhecemos hoje permaneceram na memória da humanidade por sua relevância, por apresentarem uma narrativa coesa e que dialoga com a nossa realidade.
+      
+- A capacidade de organizar experiências e atribuir significados é crucial para a sobrevivência humana.
+- As histórias que permanecem na memória destacam-se por sua relevância e narrativa coesa.
+- Storytelling é a prática de apresentar uma história envolvente, com começo, meio e fim.
+- A narrativa deve cativar e prender a atenção do público, sendo memorável e significativa.
 
-Neste sentido, o storytelling surge como a prática ou técnica de apresentar uma boa história, de maneira que tenha começo, meio e fim.
-
-A narrativa proposta deve ser uma capaz de cativar o ouvinte, prendendo sua atenção até o final.
-
-Além disso, precisa ser memorável, permanecendo na memória por muito tempo e de maneira significativa.
 
 ---
 
