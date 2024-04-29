@@ -1,3 +1,6 @@
+[Vozes da narraçao]https://www.youtube.com/watch?v=yl00d2646rM&ab_channel=BrasilEscolaOficial
+[Ponto de Vista e Perspectiva na narrativa]https://youtu.be/XpNgRjqSxLY
+
 A voz narrativa se refere ao modo como a história é contada, enquanto a voz perspectiva está relacionada ao ponto de vista a partir do qual os eventos são percebidos. Vamos detalhar cada uma:
 
 1. **Voz Narrativa:**
